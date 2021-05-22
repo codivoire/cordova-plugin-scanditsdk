@@ -1,0 +1,33 @@
+{
+  "name": "@codivoire/cordova-plugin-scanditsdk",
+  "version": "5.11.4",
+  "description": "Scandit Barcode Scanner Plugin",
+  "author": "Codivoire",
+  "license": "Apache-2.0",
+  "types": "./types/index.d.ts",
+  "cordova": {
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "id": "cordova-plugin-scanditsdk"
+  },
+  "homepage": "https://github.com/codivoire/cordova-plugin-scanditsdk#readme",
+  "repository": {
+    "url": "git+https://github.com/codivoire/cordova-plugin-scanditsdk.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/codivoire/cordova-plugin-scanditsdk/issues"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-ios",
+    "cordova-android",
+    "ecosystem:cordova",
+    "scandit",
+    "sdk",
+    "barcode",
+    "scan"
+  ]
+}
